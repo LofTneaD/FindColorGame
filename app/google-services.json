@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523973673560",
+    "project_id": "findcolorgame-a5c27",
+    "storage_bucket": "findcolorgame-a5c27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523973673560:android:b52f0fa0184e1b2130402d",
+        "android_client_info": {
+          "package_name": "com.example.findcolorgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pUX2SyFh7ZSP6bXvivxlGIqvkJSeZwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
